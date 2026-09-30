@@ -87,6 +87,19 @@
         <element xmi:type="uml:UseCase" href="Papyrus%20Demo.uml#_e1Nm8LvuEfG94uMmvxJBXw"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1UUobvuEfG94uMmvxJBXw" x="14" y="254"/>
       </children>
+      <children xmi:type="notation:Shape" xmi:id="_AeoTELzrEfGmiKTEYyUskA" type="UseCase_Shape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Aeo6ILzrEfGmiKTEYyUskA" type="UseCase_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_AephMLzrEfGmiKTEYyUskA" type="UseCase_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_AephMbzrEfGmiKTEYyUskA" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_AephMrzrEfGmiKTEYyUskA" type="UseCase_ExtensionPointCompartment_CCN">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_AephM7zrEfGmiKTEYyUskA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_AephNLzrEfGmiKTEYyUskA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AephNbzrEfGmiKTEYyUskA"/>
+        </children>
+        <element xmi:type="uml:UseCase" href="Papyrus%20Demo.uml#_AeUKALzrEfGmiKTEYyUskA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AeoTEbzrEfGmiKTEYyUskA" x="201" y="259"/>
+      </children>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ux-AZrvuEfG94uMmvxJBXw"/>
     </children>
     <element xmi:type="uml:Artifact" href="Papyrus%20Demo.uml#_Ux8yQLvuEfG94uMmvxJBXw"/>
