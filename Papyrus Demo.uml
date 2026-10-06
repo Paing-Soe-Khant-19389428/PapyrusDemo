@@ -4,12 +4,14 @@
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
   <packagedElement xmi:type="uml:Actor" xmi:id="_PjaQ0LvuEfG94uMmvxJBXw" name="Actor2"/>
-  <packagedElement xmi:type="uml:Artifact" xmi:id="_Ux8yQLvuEfG94uMmvxJBXw" name="Artifact4" useCase="_cXIa8LvuEfG94uMmvxJBXw _dD-S0LvuEfG94uMmvxJBXw _dXtHILvuEfG94uMmvxJBXw _e1Nm8LvuEfG94uMmvxJBXw _AeUKALzrEfGmiKTEYyUskA">
+  <packagedElement xmi:type="uml:Artifact" xmi:id="_Ux8yQLvuEfG94uMmvxJBXw" name="Artifact4" useCase="_cXIa8LvuEfG94uMmvxJBXw _dD-S0LvuEfG94uMmvxJBXw _dXtHILvuEfG94uMmvxJBXw _e1Nm8LvuEfG94uMmvxJBXw _AeUKALzrEfGmiKTEYyUskA _4HXxAMF7EfGF6-Mf259K3g _6VRzAMF7EfGF6-Mf259K3g">
     <ownedUseCase xmi:type="uml:UseCase" xmi:id="_Q2ELgLvuEfG94uMmvxJBXw" name="UseCase3"/>
     <ownedUseCase xmi:type="uml:UseCase" xmi:id="_cXIa8LvuEfG94uMmvxJBXw" name="UseCase2" subject="_Ux8yQLvuEfG94uMmvxJBXw"/>
     <ownedUseCase xmi:type="uml:UseCase" xmi:id="_dD-S0LvuEfG94uMmvxJBXw" name="UseCase3" subject="_Ux8yQLvuEfG94uMmvxJBXw"/>
     <ownedUseCase xmi:type="uml:UseCase" xmi:id="_dXtHILvuEfG94uMmvxJBXw" name="UseCase4" subject="_Ux8yQLvuEfG94uMmvxJBXw"/>
     <ownedUseCase xmi:type="uml:UseCase" xmi:id="_e1Nm8LvuEfG94uMmvxJBXw" name="UseCase5" subject="_Ux8yQLvuEfG94uMmvxJBXw"/>
     <ownedUseCase xmi:type="uml:UseCase" xmi:id="_AeUKALzrEfGmiKTEYyUskA" name="UseCase6" subject="_Ux8yQLvuEfG94uMmvxJBXw"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_4HXxAMF7EfGF6-Mf259K3g" name="ProductView" subject="_Ux8yQLvuEfG94uMmvxJBXw"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_6VRzAMF7EfGF6-Mf259K3g" name="UseCase8" subject="_Ux8yQLvuEfG94uMmvxJBXw"/>
   </packagedElement>
 </uml:Model>

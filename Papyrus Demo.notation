@@ -100,6 +100,32 @@
         <element xmi:type="uml:UseCase" href="Papyrus%20Demo.uml#_AeUKALzrEfGmiKTEYyUskA"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AeoTEbzrEfGmiKTEYyUskA" x="201" y="259"/>
       </children>
+      <children xmi:type="notation:Shape" xmi:id="_4HwLgMF7EfGF6-Mf259K3g" type="UseCase_Shape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4HxZoMF7EfGF6-Mf259K3g" type="UseCase_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4HyAsMF7EfGF6-Mf259K3g" type="UseCase_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4HyAscF7EfGF6-Mf259K3g" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_4HyAssF7EfGF6-Mf259K3g" type="UseCase_ExtensionPointCompartment_CCN">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_4HyAs8F7EfGF6-Mf259K3g"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_4HyAtMF7EfGF6-Mf259K3g"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4HyAtcF7EfGF6-Mf259K3g"/>
+        </children>
+        <element xmi:type="uml:UseCase" href="Papyrus%20Demo.uml#_4HXxAMF7EfGF6-Mf259K3g"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4HwLgcF7EfGF6-Mf259K3g" x="14" y="334"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_6VaV4MF7EfGF6-Mf259K3g" type="UseCase_Shape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6VaV4sF7EfGF6-Mf259K3g" type="UseCase_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6VaV48F7EfGF6-Mf259K3g" type="UseCase_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Va88MF7EfGF6-Mf259K3g" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_6Va88cF7EfGF6-Mf259K3g" type="UseCase_ExtensionPointCompartment_CCN">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_6Va88sF7EfGF6-Mf259K3g"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_6Va888F7EfGF6-Mf259K3g"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6Va89MF7EfGF6-Mf259K3g"/>
+        </children>
+        <element xmi:type="uml:UseCase" href="Papyrus%20Demo.uml#_6VRzAMF7EfGF6-Mf259K3g"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6VaV4cF7EfGF6-Mf259K3g" x="206" y="342"/>
+      </children>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ux-AZrvuEfG94uMmvxJBXw"/>
     </children>
     <element xmi:type="uml:Artifact" href="Papyrus%20Demo.uml#_Ux8yQLvuEfG94uMmvxJBXw"/>
